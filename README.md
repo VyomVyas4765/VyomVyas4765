@@ -3,7 +3,6 @@ Hey there, I'm Vyom Vyas<br><br>🔭 Currently pursuing B.Tech in IT at K.J. Som
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vyomvyas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vyom.vyas47@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vyomvyas)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VyomVyas4765)
 
